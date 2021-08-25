@@ -1,0 +1,6 @@
+group 'gowithkubernettes'
+version '1.0-snapshot'
+
+dependencies{
+
+}
